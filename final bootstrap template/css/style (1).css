@@ -1,0 +1,177 @@
+*{
+    padding: 0%;
+    margin: 0%;
+
+}
+ul li h5:hover{
+color: gray;
+}
+.afsal2{
+    background-image: url(../images/assets/img/header-bg.jpg);
+    background-size: 100% 100%;
+    height:900px;
+}
+.afsal3{
+    color: white;
+    margin-top: 328px;
+    font-style: italic;
+    display: block;
+    
+}
+.afsal4 h1{
+    color:rgb(255, 255, 255);
+    font-size:93px;
+}
+.afsal5 h4{
+    padding: 10px 20px;
+    
+}
+.afsal5{
+    margin-top: 38px;
+}
+.afsal6{
+    font-size: 40px;
+}
+.afsal7 h1{
+    font-size: 50px;
+    padding-top: 70px;
+}
+.afsal8{
+    font-style: italic;
+    color: gray;
+    padding-top:5px;
+}
+.afsal9{
+    margin-top:15px;
+    font-weight: 800;
+
+}
+.afsal10{
+    margin-top:15px;
+    color: gray;
+}
+.afsal11{
+    margin:44px;
+}
+.afsal12{
+    padding-bottom: 15px;
+   
+}
+.affu{
+    position: relative;
+   
+    
+}
+.card{
+    border: none;
+}
+.afsal14{
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 200, 0, 0.9);
+    display: none;
+    
+}
+.affu:hover .afsal14{
+    display: block;
+    transition: 3s;
+    border-radius: 5.5px 5.5px 0px 0px;
+   
+}
+.afsal15{
+    margin-top: 45px;
+}
+.afsal16{
+    margin-bottom: 28px;
+}
+.afsal17{
+    padding: 100px 0px;
+}
+.affu2{
+    border-radius: 100%;
+    width: 224px;
+    height: 224px;
+    border: 0.5rem solid rgba(0, 0, 0, 0.1);
+    text-align: center;
+    
+}
+.affu3 h2{
+  margin-top: 12px;
+ 
+}
+.affu4{
+    margin-top: 40px;
+}
+.affu5{
+    margin-top: 20px;
+}
+.affu7{
+    background-image: url(../images/assets/img/210906.jpg);
+    background-size: 100% 100%;
+    height:900px;
+}
+.affu8{
+    margin-top: 80px;
+    color: white;
+}
+.affu9{
+ margin-bottom: 35px;
+ 
+}
+.affu10{
+    height: 75px;
+ margin-bottom: 35px;
+
+}
+.affu11{
+
+ height: 75px;   
+}
+.affu12 h5{
+    padding: 9px 32px;
+    color: white;
+}
+.affu13{
+    margin-top: 85px;
+}
+/* .affu17{
+    margin-left: 200px;
+} */
+
+@media screen and (max-width:572px){
+
+    .afsal4 h1{
+        color:rgb(255, 255, 255);
+        font-size: 3.25rem;
+        font-weight: 700;
+        line-height: 3.25rem;
+    }
+    .afsal2{
+        background-image: url(../images/assets/img/header-bg.jpg);
+        background-size: 100% 100%;
+        height:550px;
+    }
+    .affu6 h1{
+        font-size: 50px;
+    }
+    .affu14{
+        margin-top: 35px;
+    }
+    .affu7{
+        background-image: url(../images/assets/img/210906.jpg);
+        background-size: 100% 100%;
+        height:1000px;
+    }
+    .afsal3{
+        color: white;
+        margin-top: 180px;
+        font-style: italic;
+        display: block;
+        
+    }
+    .affu15{
+        margin-top: 40px;
+    }
+}
